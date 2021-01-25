@@ -1,0 +1,24 @@
+{
+  "name": "sabateklu-proxy",
+  "version": "1.0.0",
+  "description": "trip advisor proxy",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slack-Reactor/sabateklu-proxy.git"
+  },
+  "author": "saba teklu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slack-Reactor/sabateklu-proxy/issues"
+  },
+  "homepage": "https://github.com/Slack-Reactor/sabateklu-proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
